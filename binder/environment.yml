@@ -1,0 +1,11 @@
+name: ec_2022_mlImbalancedData
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - math
+  - numpy
+  - pandas
+  - pip
+  - pip:
+    - sklearn
