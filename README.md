@@ -1,4 +1,4 @@
-**[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/earthcube2022/ec22_okeefe_etal/HEAD?filepath=PO_02_Handling_Highly_Imbalanced_Data_in_Machine_Learning_Applications.ipynb)**
+**[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/earthcube2022/ec22_okeefe_etal/HEAD?labpath=PO_02_Handling_Highly_Imbalanced_Data_in_Machine_Learning_Applications.ipynb)**
 
 # Handling Highly Imbalanced Data in Machine Learning Applications
 ## Abstract
