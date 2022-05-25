@@ -3,9 +3,9 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - matplotlib
   - numpy
   - pandas
   - pip
   - pip:
     - sklearn
+    - matplotlib
