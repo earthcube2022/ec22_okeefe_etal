@@ -1,0 +1,51 @@
+
+{
+    "title": "Handling Highly Imbalanced Data in Machine Learning Applications",
+    "creators": [
+        {
+            "name": "Patrick M. O'Keefe",
+            "affiliation": "New Jersey Institute of Technology",
+            "email": "pmo6@njit.edu"
+        },
+        {
+            "name": "Viacheslav M. Sadykov",
+            "affiliation": "Georgia State University",
+            "email": "vsadykov@gsu.edu"
+        },
+        {
+            "name": "Alexander G. Kosovichev",
+            "affiliation": "New Jersey Institute of Technology",
+            "email": "alexander.g.kosovichev@njit.edu"
+        },
+        {
+            "name": "Gelu M. Nita",
+            "affiliation": "New Jersey Institute of Technology",
+            "email": "gnita@njit.edu"
+        },
+        {
+            "name": "Vincent Oria",
+            "affiliation": "New Jersey Institute of Technology",
+            "email": "vincent.oria@njit.edu"
+        },
+        {
+            "name": "Shantanu Sharma",
+            "affiliation": "New Jersey Institute of Technology",
+            "email": "shantanu.sharma@njit.edu"
+        },
+        {
+            "name": "Fraila Francis",
+            "affiliation": "New Jersey Institute of Technology",
+            "email": "ff29@njit.edu"
+        },
+        {
+            "name": "Chun Jie Chong",
+            "affiliation": "New Jersey Institute of Technology",
+            "email": "cc255@njit.edu"
+        }
+    ],
+    "keywords": [
+        "solar energetic particles",
+        "machine learning",
+        "databases"
+    ]
+}
